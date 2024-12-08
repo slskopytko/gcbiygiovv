@@ -1,4 +1,0 @@
-- pipeline: gjwnfmhhbd
-  refs:
-  - refs/heads/master
-  on: CLICK
